@@ -307,6 +307,21 @@ dim(endpoints)
 set.seed(1)
 pcaAbsorp <- prcomp(absorp, 
                     center = TRUE, scale. = TRUE)
+# No variable names....
+
+# ============================================================================================
+# So...
+
+# Brief example on how to extract the variables used in a PC linear combination --------
+pca <- prcomp(USArrests)
+loading_scores <- pca$rotation[, 1]
+varscores <- abs(loading_scores)
+varsscores_ranked <- sort(varscores, decreasing = TRUE)
+topVariables <- names(varsscores_ranked)
+topVariables
+# ...continued ------------------------------------------------------------
+# ============================================================================================
+
 # The variance explained by each principal component is obtained by squaring these:
 pca_var <- pcaAbsorp$sdev ^ 2
 # # To compute the proportion of variance explained by each principal component, we simply 
