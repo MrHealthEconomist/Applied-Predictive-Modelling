@@ -1,5 +1,5 @@
 # Applied-Predictive-Modelling
-My completed labs and exercises from the chapters of "Applied Predictive Modelling" by Kuhn & Johnson; a great resource for anyone wanting to learn efficient machine learning with R.
+My completed labs and exercises from the chapters of "Applied Predictive Modelling" by Kuhn & Johnson; a great resource for anyone wanting to learn efficient machine learning in R.
 
 # Book's website
 http://appliedpredictivemodeling.com/user2014
