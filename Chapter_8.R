@@ -219,18 +219,5 @@ plot(resid(cubistTuned), predict(cubistTuned))
 # End file ----------------------------------------------------------------
 
 # I have not completed the exercises of this chapter due to the computational heavy nature of
-# these regression methods. Further, it is unlikley that I will frequently use such methods in
-# my work.
-
-
-
-
-
-
-
-
-
-
-
-
-
+# these regression methods. One can utilise parallel computing, however, I was not motivated at the point in time. 
+# Further, it is unlikley that I will frequently use such methods in my work.
