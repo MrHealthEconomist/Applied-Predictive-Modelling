@@ -218,7 +218,6 @@ plot(resid(cubistTuned), predict(cubistTuned))
 
 # End file ----------------------------------------------------------------
 
-# I have not completed the exercises of this chapter due to the computational heavy nature of
-# these regression methods. One can utilise parallel computing, however, I was not motivated to do so at the point in time. I
-# have had previous tutorial experience with Tree based models, such as David Langer's Titanic tutorial. Further, it is 
-# unlikley that I will frequently use such methods, other than the simple decision trees, in my domain of expertise.
+# I have not completed the exercises of this chapter due to the computationally heavy nature of these regression methods. 
+# I was not motivated with enough patience to complete this section due having had completed a  previos tutorial experience 
+# with Tree based models (David Langer's Titanic tutorial on Youtube). Perhaps I'll return to this at a later stage...
