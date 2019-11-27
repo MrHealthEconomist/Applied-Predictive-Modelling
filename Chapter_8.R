@@ -219,5 +219,5 @@ plot(resid(cubistTuned), predict(cubistTuned))
 # End file ----------------------------------------------------------------
 
 # I have not completed the exercises of this chapter due to the computationally heavy nature of these regression methods. 
-# I was not motivated with enough patience to complete this section due having had completed a  previos tutorial experience 
-# with Tree based models (David Langer's Titanic tutorial on Youtube). Perhaps I'll return to this at a later stage...
+# I was not motivated with enough patience to complete this section due having completed a previously lengthly tutorial 
+# on Tree based methods (see David Langer's Titanic tutorial on Youtube). Perhaps I'll return to this at a later stage...
