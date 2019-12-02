@@ -197,5 +197,4 @@ calCurve_2 <- calibration(class ~ QDAProb + QDABayes + QDAsigmoid,
                           data = simulatedTest)
 xyplot(calCurve_2)
 
-# No exercises were found in this chapter. The diagnostic methods above are introduced in the proceeding chapter exercises.
 # End file ----------------------------------------------------------------
