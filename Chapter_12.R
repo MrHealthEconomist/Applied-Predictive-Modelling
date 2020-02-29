@@ -331,6 +331,6 @@ components <- chemPLSDA$finalModel$loadings[, 7]
 # ... the predictor variables with the highest cumulative variance, in the 7th component are:
 names(components)
 
-# I am not going to complete the other models as they are rarely used, if ever.
+# I am not going to complete the other models as they are rarely used, if ever, in my field of expertise.
 
 # End file ----------------------------------------------------------------
